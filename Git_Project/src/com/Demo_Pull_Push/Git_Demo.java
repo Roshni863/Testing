@@ -7,4 +7,9 @@ public class Git_Demo {
 		System.out.println("Hello Roshni");
 		
 	}
+	public void m1()
+	{
+		System.out.println("Hello smita");
+
+	}
 }
